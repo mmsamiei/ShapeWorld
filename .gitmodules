@@ -1,7 +1,6 @@
-[submodule "shapeworld/realizers/dmrs/pydmrs"]
-	path = shapeworld/realizers/dmrs/pydmrs
-	url = https://github.com/delph-in/pydmrs
-	branch = python2
-[submodule "pretrained/tf_models"]
-	path = pretrained/tf_models
-	url = https://github.com/tensorflow/models.git
+[submodule "models/TFMacros"]
+    path = models/TFMacros
+    url = git@github.com:username/TFMacros.git
+[submodule "other/mod"]
+    path = other/mod
+    url = git@github.com:username/OtherMod.git
